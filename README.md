@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhythmsaha&show_icons=true&locale=en&layout=compact" alt="rhythmsaha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhythmsaha&show_icons=true&locale=en" alt="rhythmsaha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmsaha&" alt="rhythmsaha" /></p>
